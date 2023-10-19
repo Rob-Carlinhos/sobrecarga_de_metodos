@@ -9,8 +9,8 @@ public class TesteCalculadoraV3 {
         int a = 5, b = 7, c = 9, d = 2;
         // calc.somar(new int[]{a, b, c, d});
         calc.somar(a, b, c, d);
-        calc.somar(1);
-        calc.somar(2, 3);
-        calc.somar();
+        //calc.somar(1);
+        //calc.somar(2, 3);
+        //calc.somar();
     }
 }
